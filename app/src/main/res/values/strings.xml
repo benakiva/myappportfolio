@@ -12,5 +12,5 @@
     <string name="xyz_reader">XYZ READER</string>
     <string name="capstone_app">CAPSTONE: MY OWN APP</string>
 
-    <string name="toast_msg">This button will launch my %s app!</string>
+    <string name="open_app">Opens the app </string>
 </resources>
