@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_screen_bg">#bfe2f3</color>
+    <color name="apps_button">#F08C35</color>
+    <color name="title_colour">#426479</color>
+    <color name="capstone_button">#d73357</color>
+</resources>
